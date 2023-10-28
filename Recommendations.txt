@@ -1,0 +1,1 @@
+Implement a log rotation mechanism to ensure the log files do not consume too much disk space. Use centralized logging for easier management.
